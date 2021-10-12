@@ -62,3 +62,6 @@
 * [企業基本資料](https://www.104.com.tw/hackathon/2020/104xmeichu-dataset/company.html)
 * [職務資料](https://www.104.com.tw/hackathon/2020/104xmeichu-dataset/job.html)
 * [類目資料](https://www.104.com.tw/hackathon/2020/104xmeichu-dataset/category.html)
+
+## 題目及資料應用說明
+* [影片連結](https://youtu.be/z-7yaqGQb1g)
